@@ -2,9 +2,9 @@ import click
 
 
 @click.command()
-def pymediamover():
+def cli():
     pass
 
 
 if __name__ == '__main__':
-    pymediamover()
+    cli()
